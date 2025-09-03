@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Halo, saya Damar Alam Al Abror
 
-<!--
-**damaralamalabror-jpg/damaralamalabror-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏫 Tentang Saya
+Saya saat ini sedang menempuh studi di **Universitas Gadjah Mada (UGM)**  
+Jurusan **Geofisika**.  
 
-Here are some ideas to get you started:
+## 🎯 Hobi
+- Makan makanan enak 🍜🍗  
+- Sholat 🕌  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤔 Fun Fact
+Saya punya keunikan yaitu bisa **tahan panas** 🔥 dan **tahan dingin** ❄️.  
+
+## 📬 Kontak
+- ✉️ Email: [damaralamalabror@mail.ugm.ac.id](mailto:damaralamalabror@mail.ugm.ac.id)  
+- 📸 Instagram: [@damaralabror](https://instagram.com/damaralabror)  
+
+---
+
+✨ *“Belajar adalah perjalanan, bukan tujuan akhir.”*
+
